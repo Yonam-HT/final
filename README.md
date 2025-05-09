@@ -138,7 +138,8 @@
 
 # 3. 내/외부 설계 기능(WBS)
 
-<img width="618" alt="스크린샷 2025-05-10 오전 5 17 23" src="https://github.com/user-attachments/assets/488c52e2-471a-44b6-a614-465f021d4ce1" />
+<img width="729" alt="스크린샷 2025-05-10 오전 5 54 04" src="https://github.com/user-attachments/assets/70dcfff7-635b-45d3-8b11-5e62dcdb1193" />
+
 
 
 # 4. 추후 기능
